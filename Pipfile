@@ -11,6 +11,8 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 requests = "*"
+sqlalchemy = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
