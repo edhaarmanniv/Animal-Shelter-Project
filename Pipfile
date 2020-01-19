@@ -7,9 +7,9 @@ verify_ssl = true
 
 [packages]
 ipykernel = "*"
-numpy = "*"
 pandas = "*"
 matplotlib = "*"
+numpy = "*"
 requests = "*"
 sqlalchemy = "*"
 pymysql = "*"
